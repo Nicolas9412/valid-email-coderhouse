@@ -1,0 +1,23 @@
+{
+  "name": "valid-email-coderhouse",
+  "version": "1.0.0",
+  "description": "algo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas9412/valid-email-coderhouse.git"
+  },
+  "keywords": [
+    "coder",
+    "mail"
+  ],
+  "author": "nicolas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolas9412/valid-email-coderhouse/issues"
+  },
+  "homepage": "https://github.com/Nicolas9412/valid-email-coderhouse#readme"
+}
